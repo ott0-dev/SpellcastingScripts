@@ -1,4 +1,4 @@
-# SpellcastingScripts
+# Spellcasting Scripts
  Scripts used in the tutorial
 The Sample project does NOT have the free unity assets in it since this is not allowed by the license of the unity asset store, you can download these in the Unity asset store.
 
